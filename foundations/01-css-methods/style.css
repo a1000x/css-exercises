@@ -1,0 +1,17 @@
+.first {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+ font-weight: bold;
+
+}
+.second {
+    background-color: green;
+    font-size: 18px;
+    color: white;
+}
+.third {
+    background-color: orange;
+    font-size: 18px;
+}
